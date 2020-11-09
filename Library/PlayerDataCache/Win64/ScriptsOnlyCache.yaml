@@ -34,6 +34,8 @@ ScriptsOnlyBuild:
     - Unity.Cloud.Collaborate.UserInterface.WindowCache
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.Timeline.Editor.dll:
+    - TimelineProjectSettings
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -1177,4 +1179,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Controls.unity
   - Assets/Scenes/GameOver.unity
   - Assets/Scenes/WinGame.unity
-  playerPath: "D:/Unity/Projects/\u0160pongia2020/Builds/Windows/Ganus Privalus.exe"
+  playerPath: "D:/Unity/Projects/\u0160pongia2020/Builds/WindowsX64/Ganus Privalus.exe"
